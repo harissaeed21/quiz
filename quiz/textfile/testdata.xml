@@ -1,0 +1,23 @@
+﻿<?xml version ="1.0" encoding ="utf-8"?>
+<Automation>
+	<Execution>
+		<register>
+
+			<fullname>Haris Saeed</fullname>
+			<email>hafizharissaeed21@gmail.com</email>
+			<password>Testing123</password>
+			<first>haris</first>
+			<last>saeed</last>
+			<country> pakistan</country>
+			<address> gulberg lahore</address>
+			<state>punjab</state>
+			<city>Lahore</city>
+			<zipcode>555002</zipcode>
+			<mobile>0313645256</mobile>
+		</register>
+		<login>
+			<username>hafizharissaeed21@gmail.com</username>
+			<password>Testing123</password>
+		</login>
+	</Execution>
+</Automation>
